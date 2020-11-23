@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/monsterparty/static/css/main.b64333b8.chunk.css",
-    "main.js": "/monsterparty/static/js/main.d1f9a0bc.chunk.js",
-    "main.js.map": "/monsterparty/static/js/main.d1f9a0bc.chunk.js.map",
-    "runtime-main.js": "/monsterparty/static/js/runtime-main.b24769a1.js",
-    "runtime-main.js.map": "/monsterparty/static/js/runtime-main.b24769a1.js.map",
-    "static/js/2.c0e41424.chunk.js": "/monsterparty/static/js/2.c0e41424.chunk.js",
-    "static/js/2.c0e41424.chunk.js.map": "/monsterparty/static/js/2.c0e41424.chunk.js.map",
-    "static/js/3.20c83a77.chunk.js": "/monsterparty/static/js/3.20c83a77.chunk.js",
-    "static/js/3.20c83a77.chunk.js.map": "/monsterparty/static/js/3.20c83a77.chunk.js.map",
-    "index.html": "/monsterparty/index.html",
-    "static/css/main.b64333b8.chunk.css.map": "/monsterparty/static/css/main.b64333b8.chunk.css.map",
-    "static/js/2.c0e41424.chunk.js.LICENSE.txt": "/monsterparty/static/js/2.c0e41424.chunk.js.LICENSE.txt"
+    "main.css": "/monster-party/static/css/main.b64333b8.chunk.css",
+    "main.js": "/monster-party/static/js/main.d1f9a0bc.chunk.js",
+    "main.js.map": "/monster-party/static/js/main.d1f9a0bc.chunk.js.map",
+    "runtime-main.js": "/monster-party/static/js/runtime-main.9ba27b4a.js",
+    "runtime-main.js.map": "/monster-party/static/js/runtime-main.9ba27b4a.js.map",
+    "static/js/2.c0e41424.chunk.js": "/monster-party/static/js/2.c0e41424.chunk.js",
+    "static/js/2.c0e41424.chunk.js.map": "/monster-party/static/js/2.c0e41424.chunk.js.map",
+    "static/js/3.20c83a77.chunk.js": "/monster-party/static/js/3.20c83a77.chunk.js",
+    "static/js/3.20c83a77.chunk.js.map": "/monster-party/static/js/3.20c83a77.chunk.js.map",
+    "index.html": "/monster-party/index.html",
+    "static/css/main.b64333b8.chunk.css.map": "/monster-party/static/css/main.b64333b8.chunk.css.map",
+    "static/js/2.c0e41424.chunk.js.LICENSE.txt": "/monster-party/static/js/2.c0e41424.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b24769a1.js",
+    "static/js/runtime-main.9ba27b4a.js",
     "static/js/2.c0e41424.chunk.js",
     "static/css/main.b64333b8.chunk.css",
     "static/js/main.d1f9a0bc.chunk.js"
